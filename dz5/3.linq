@@ -29,5 +29,5 @@ foreach (var letter in arr)
 	}
 	
 }
-Console.WriteLine($"нижний регистр -" + low);
-	Console.WriteLine($"верхний регистр -" + up);
+	Console.WriteLine($"нижний регистр - " + low);
+	Console.WriteLine($"верхний регистр - " + up);
